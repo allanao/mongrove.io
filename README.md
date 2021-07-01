@@ -3,7 +3,7 @@
 ## A website for your favorite NoSQL Analytics and Database Optimization Tool for MongoDB
 
 <div align="center">
-  <img src="./assets/Mongrove.png" width=300/>
+  <img src="./src/images/Mongrove1.png" width=300/>
   <p><b>Welcome to Mongrove!</b></p>
   <p>A database analytics tool for MongoDB to compare and contrast metrics for various schemas and queries to MongoDB databses </p>
 </div>
