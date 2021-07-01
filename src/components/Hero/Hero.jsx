@@ -35,11 +35,13 @@ const Header = () => {
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
-              <Link to="about" smooth duration={1000}>
-                {cta || 'Know more'}
-              </Link>
+              {/* <Link to="about" smooth duration={1000}>
+                {cta || 'See Mongrove On GitHub'}
+              </Link> */}
+              <a href="https://github.com/oslabs-beta/Mongrove">Visit Mongrove On GitHub</a>
             </span>
           </p>
+              <p>Or scroll down for more info</p>
         </Fade>
       </Container>
     </section>
