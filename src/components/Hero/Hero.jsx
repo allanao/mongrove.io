@@ -41,7 +41,15 @@ const Header = () => {
               <a href="https://github.com/oslabs-beta/Mongrove">Visit Mongrove On GitHub</a>
             </span>
           </p>
-              <p>Or scroll down for more info</p>
+        </Fade>
+        <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
+          <p className="hero-cta">
+            <span className="cta-btn cta-btn--hero">
+              <a href="https://github.com/oslabs-beta/Mongrove/releases/tag/1.0.0">Download and Install Mongrove</a>
+            </span>
+          </p>
+          <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+              <p><strong>Or scroll down for more info!</strong></p>
         </Fade>
       </Container>
     </section>
