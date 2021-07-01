@@ -36,14 +36,14 @@ const Contact = () => {
                 <div className="team-member">
                   {/* <img src="../../images/yael_ofer.png" alt="yael ofer"/> */}
                   <h4>Peter Van</h4>
-                  <a href="https://github.com/peterrvan" className="link">Github</a> | <a href="www.linkedin.com/in/peter-van/">LinkedIn</a>
+                  <a href="https://github.com/peterrvan" className="link">Github</a> | <a href="https://www.linkedin.com/in/peter-van/">LinkedIn</a>
                 </div>
 
                 <div className="team-member">
                   {/* <img src="../../images/yael_ofer.png" alt="yael ofer"/> */}
                   {/* <div id="sushanth" className="team-member-image"></div> */}
                   <h4>Sushanth Kambham</h4>
-                  <a href="https://github.com/sushanth913" className="link">Github</a> | <a href="www.linkedin.com/in/sushanth-kambham"> LinkedIn</a>
+                  <a href="https://github.com/sushanth913" className="link">Github</a> | <a href="https://www.linkedin.com/in/sushanth-kambham"> LinkedIn</a>
                 </div>
               </div>
             </p>
@@ -51,7 +51,7 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
+              href={email ? `${email}`: 'https://github.com/cobidev/react-simplefolio'}
             >
               {btn || "Let's Talk"}
             </a>
