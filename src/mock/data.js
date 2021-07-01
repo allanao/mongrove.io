@@ -50,14 +50,6 @@ export const projectsData = [
     info2: '',
     url: '',
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-  },
 ];
 
 // CONTACT DATA
