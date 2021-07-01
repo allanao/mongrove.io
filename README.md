@@ -1,4 +1,4 @@
-# mongrove.io 🍊  
+# [mongrove.io](https://mongrove.io/) 🍊  
 
 A website for your favorite NoSQL Analytics and Database Optimization Tool for MongoDB
 
