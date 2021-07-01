@@ -1,6 +1,8 @@
 # mongrove.io 🍊  
 
-## A website for your favorite NoSQL Analytics and Database Optimization Tool for MongoDB
+A website for your favorite NoSQL Analytics and Database Optimization Tool for MongoDB
+
+##
 
 <div align="center">
   <img src="./src/images/Mongrove1.png" width=300/>
