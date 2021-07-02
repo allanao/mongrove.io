@@ -18,9 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Mongrove1.png',
-  paragraphOne: 'Mongrove is a metrics tool that helps developers design and optimize different schema and queries configurations for time-optimized interaction with NoSQL MongoDB databases.',
+  paragraphOne:
+    'Mongrove is a metrics tool that helps developers design and optimize different schema and queries configurations for time-optimized interaction with NoSQL MongoDB databases.',
   paragraphTwo: 'Developers can quickly generate mock databases tailored to their specifications.',
-  paragraphThree: 'Query response times and query throughput results are displayed numerically and with graphical visualizations, allowing developers to compare and analzye their data.',
+  paragraphThree:
+    'Query response times and query throughput results are displayed numerically and with graphical visualizations, allowing developers to compare and analyze their data.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -56,7 +58,8 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: 'Check Us Out On Medium',
-  email: 'https://ayaordonez.medium.com/introducing-mongrove-an-exciting-nosql-database-optimization-tool-3b68c3fdb299',
+  email:
+    'https://ayaordonez.medium.com/introducing-mongrove-an-exciting-nosql-database-optimization-tool-3b68c3fdb299',
 };
 
 // FOOTER DATA
